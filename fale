@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Contrução São Cristóvão - A Sua Loja de Materiais de Construção</title>
+    <title>Fale Conosco - Contrução São Cristóvão - A Sua Loja de Materiais de Construção</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -16,7 +16,7 @@
                     <li><a href="index.html">Home</a></li>
 		    <li><a href="produtos.html">Produtos</a></li>
                     <li><a href="sobre_nos.html">Sobre Nós</a></li>
-                    <li><a href="contato.html">Contato</a></li>
+                    <li><a href="contato.html">Contato</a></li>s
                 </ul>
             </nav>
             <div class="search-bar">
@@ -40,37 +40,6 @@
             </div>
         </section>
 
-        <section class="featured-products">
-            <div class="container">
-                <h2 class="section-title">Produtos em Destaque</h2>
-                <div class="product-grid">
-                    <div class="product-card">
-                        <img src="tijolo.jpeg" alt="Tijolo">
-                        <h3>Tijolo Comum</h3>
-                        <p class="price">R$ 1,50 / unidade</p>
-                        <button class="button secondary">Adicionar ao Carrinho</button>
-                    </div>
-                    <div class="product-card">
-                        <img src="cimento.jpeg" alt="Cimento">
-                        <h3>Saco de Cimento 50kg</h3>
-                        <p class="price">R$ 28,90 / saco</p>
-                        <button class="button secondary">Adicionar ao Carrinho</button>
-                    </div>
-                    <div class="product-card">
-                        <img src="areia.jpeg" alt="Areia">
-                        <h3>Metro Cúbico de Areia</h3>
-                        <p class="price">R$ 85,00 / m³</p>
-                        <button class="button secondary">Adicionar ao Carrinho</button>
-                    </div>
-                    <div class="product-card">
-                        <img src="ferro.jpeg" alt="Ferro">
-                        <h3>Barra de Ferro 10mm</h3>
-                        <p class="price">R$ 32,00 / barra</p>
-                        <button class="button secondary">Adicionar ao Carrinho</button>
-                    </div>
-                </div>
-            </div>
-        </section>
 
         <section class="call-to-action">
             <div class="container">
